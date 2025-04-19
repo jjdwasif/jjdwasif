@@ -1,8 +1,4 @@
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://x.com/SonyAnimation/status/1348706241728532482">
- <source media="(prefers-color-scheme: light)" srcset="https://x.com/SonyAnimation/status/1348706241728532482">
- <img alt="YOUR-ALT-TEXT" src="https://x.com/SonyAnimation/status/1348706241728532482">
-</picture>
+
 
 
 <!--
